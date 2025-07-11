@@ -1,6 +1,6 @@
 # 📈 Stock Market Prediction using LSTM
 
-This Streamlit web application predicts the **closing price of a stock** using an LSTM (Long Short-Term Memory) model trained on historical stock data from Yahoo Finance.
+Stock market prediction involves forecasting the future price of a stock based on historical data. This project uses Python, yfinance for data collection, and includes steps like data cleaning, preprocessing, transformation, and model building.
 
 ---
 
