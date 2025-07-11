@@ -32,3 +32,11 @@ This Streamlit web application predicts the **closing price of a stock** using a
 ```bash
 git clone https://github.com/yourusername/stock-price-predictor.git
 cd stock-price-predictor
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+
+3. Run the app locally
+```bash
+streamlit run app.py
